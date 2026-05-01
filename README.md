@@ -53,7 +53,7 @@ Z obou pohledů na otázku je odpověď NE. Meziroční růst potravin nikdy neb
 
 Ze sledovaného období nelze určit jasnou korelaci HDP a cen potravin/mezd. Určité roky (např. 2009) lze vidět možnou reakci cen na vývoj HDP, ale stále je sledované období moc krátké na jasné určení korelace. I z principu ukazatelů by bylo očekávatelné, že budou tyto hodnoty na sebe reagovat se zpožděním, nebo na sebe nemusí nutně reagovat vůbec.
 
-**Závěr**
+## Závěr
 
 Ze získaných dat lze vysledovat několik důležitých trendů. V průběhu sledovaného období docházelo k celkovému růstu mezd, cen potravin i HDP, což odpovídá očekávanému vývoji v relativně stabilním ekonomickém prostředí. Přestože mzdy rostly ve všech odvětvích, nebyl jejich vývoj zcela plynulý a v některých letech docházelo k meziročním poklesům.
 Z pohledu kupní síly je patrné, že růst mezd v dlouhodobém horizontu umožnil zvýšení dostupnosti základních potravin, jako je mléko nebo chléb. Tento růst však nebyl rovnoměrný a v některých obdobích rostly ceny potravin rychleji než mzdy, což mohlo krátkodobě negativně ovlivnit reálnou dostupnost těchto statků.
