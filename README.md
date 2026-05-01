@@ -35,7 +35,7 @@ Odpovědi přímo vycházejí z výsledků SELECT statementů, které jsou pří
 
 **1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
 
-Ve všech odvětvích od prvního do posledního sledovaného období mzda vzrostla. V některých obdobích jsou však meziroční poklesy. Celkově jsou ale meziroční změny z výrazné většiny pozitivní.
+Ve všech odvětvích od prvního do posledního sledovaného období mzda vzrostla. V některých obdobích jsou však meziroční poklesy. Celkově jsou ale meziroční změny z výrazné většiny pozitivní. Ve sledovaném období nejvíce vzrostli mzdy v odvětví zdravotní a sociální péče a to o 58,89% a nejméně v odvětví peněžnictví a pojišťovnictví o 32,42%. Žádné odvětví za celé sledované období nezaznamenalo celkový pokles. Nejslabší rok byl rok 2013, který průměrně zaznamenal pokles mzdy o 0,78%. Nejsilnější rok byl poslední sledovaný rok 2018 s růstem 7.78%. Rok 2013 byl jediným rokem, který zaznamenal pokles mezi průměrem všech odvětví. Průměrné zvýšení mzdy sečtené za celé sledované období je 47,13%.
 
 **2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
 
@@ -43,7 +43,7 @@ V roce 2006 za průměrnou mzdu ze všech odvětví bylo možné koupit ≐ 1437
 
 **3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
 
-Z prvního selectu lze vidět jednotlivé meziroční zdražení. Druhý select bere průměrné zdražování/zlevňovaní ze všech sledovaných období, kde vychází, že nejvíce zlevnil cukr a nejméně zdražili banány.
+Z prvního selectu lze vidět jednotlivé meziroční zdražení. Druhý select bere průměrné zdražování/zlevňovaní ze všech sledovaných období, kde vychází, že nejvíce zlevnil cukr a nejméně zdražili banány. Z dat je zároveň patrné, že meziroční vývoj cen není jednotný napříč jednotlivými potravinami. V rámci jednoho roku lze pozorovat jak výrazné zdražení některých položek, tak i zlevnění jiných. Například mezi roky 2006 a 2007 došlo ke zdražení papriky o 33,48%, zatímco jablka ve stejném období zlevnila o 17,51%. Většina potravin vykazuje relativně stabilní vývoj s jednocifernými meziročními změnami, nicméně některé produkty, jako například eidamský sýr nebo máslo, dosahují častěji i dvouciferných výkyvů. To naznačuje vyšší volatilitu cen u některých kategorií potravin. Zajímavým zjištěním je, že zmíněné výkyvy jsou oba u mléčných výrobků, což by mohlo naznačovat společné faktory ovlivňující jejich cenu. Další analýza by se tak mohla zaměřit na korelaci cen v rámci jednotlivých kategorií potravin.
 
 **4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
 
